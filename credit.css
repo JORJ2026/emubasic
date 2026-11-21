@@ -1,0 +1,1 @@
+.page-credit{display:flex;justify-content:flex-end;padding:12px 0 20px;color:#738071;font:8px "DM Mono",monospace;letter-spacing:.18em;text-align:right}.page-credit::before{content:"";width:16px;height:1px;margin:auto 9px auto 0;background:rgba(217,243,107,.4)}@media(max-width:700px){.page-credit{padding:10px 0 max(16px,env(safe-area-inset-bottom));font-size:7px}}
